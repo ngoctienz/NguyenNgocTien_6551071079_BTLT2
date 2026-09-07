@@ -39,6 +39,9 @@ namespace HeThongThanhToan
             }
 
             Console.WriteLine($"=> Phương thức có phí thấp nhất: {minPt.TenPhuongThuc} ({minPt.TinhPhiGiaoDich(hoaDon):N0} đ)");
+
+            Console.WriteLine("\nNhấn Enter để kết thúc...");
+            Console.ReadLine();
         }
     }
 }
