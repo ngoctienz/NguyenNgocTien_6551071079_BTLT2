@@ -29,6 +29,8 @@ namespace QuanLySachCoBan
             sach2.HienThiThongTin();
             sach3.HienThiThongTin();
 
+            Console.WriteLine("\nNhấn Enter để kết thúc...");
+            Console.ReadLine();
         }
     }
 }

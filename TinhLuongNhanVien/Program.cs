@@ -26,6 +26,8 @@ NhanVien(maNV: "NV001", hoTen: "An", soNgayLam: 20))
             Console.WriteLine($"Thưởng nhân viên 2: {thuong2}");
             Console.WriteLine($"Thưởng nhân viên 3: {thuong3}");
 
+            Console.WriteLine("\nNhấn Enter để kết thúc...");
+            Console.ReadLine();
         }
     }
 }
