@@ -1,0 +1,10 @@
+## Visual Studio and .NET build outputs
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Bb]in/
+[Oo]bj/
